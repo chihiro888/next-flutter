@@ -1,0 +1,10 @@
+{
+    "files.eol": "\n",
+    
+    // enable globally (here: format on save)
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+  
+    // 프리티어 경로
+    // "prettier.prettierPath": "backend/.yarn/sdks/prettier"
+  }
